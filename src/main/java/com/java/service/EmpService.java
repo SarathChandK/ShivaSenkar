@@ -33,5 +33,5 @@ public class EmpService {
 	public void deleteEmp(int id) {
 		db.deleteEmp(id);
 	}
-	
+	sysout sysout
 }
