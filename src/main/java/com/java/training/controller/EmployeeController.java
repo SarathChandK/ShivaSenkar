@@ -18,7 +18,7 @@ import com.java.training.model.Employee;
 @RestController
 public class EmployeeController {
 	
-	@Autowired
+	
 	private EmpService service;
 	
 	@GetMapping("/employee/{id}")
