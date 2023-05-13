@@ -34,4 +34,6 @@ public class EmpService {
 		db.deleteEmp(id);
 	}
 	sysout sysout
+	hai
+	hello
 }
